@@ -1,0 +1,16 @@
+<svg width="1080" height="1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#grad3)"/>
+  <text x="540" y="900" font-family="Arial, sans-serif" font-size="80" fill="white" text-anchor="middle">Control Horario</text>
+  <text x="540" y="1000" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle" opacity="0.8">Exportar Informes</text>
+  <rect x="340" y="600" width="400" height="500" rx="20" fill="white" opacity="0.2"/>
+  <rect x="380" y="650" width="320" height="60" rx="8" fill="white" opacity="0.3"/>
+  <rect x="380" y="730" width="320" height="60" rx="8" fill="white" opacity="0.3"/>
+  <rect x="380" y="810" width="320" height="60" rx="8" fill="white" opacity="0.3"/>
+  <rect x="380" y="890" width="320" height="60" rx="8" fill="white" opacity="0.3"/>
+</svg>
