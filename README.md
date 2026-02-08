@@ -152,7 +152,7 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## 📧 Contacto
 
-Para preguntas o sugerencias: support@controlhorario.com
+Para preguntas o sugerencias: soporte+controlhorario@loogier.com
 
 ---
 
